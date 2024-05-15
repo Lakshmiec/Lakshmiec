@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I am Sreelakshmi
+
+## 🌟 About Me
+I am a passionate Data Scientist with a strong Machine Learning and Data Analysis background. I recently completed my Master's degree at the National University of Singapore (NUS), where I worked on various projects applying ML techniques to real-world problems. I aim to leverage data to drive meaningful insights and make a positive impact.
 
 <!--
 **Lakshmiec/Lakshmiec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
