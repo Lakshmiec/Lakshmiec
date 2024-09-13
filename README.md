@@ -6,6 +6,7 @@ I am a dedicated **AI/ML Developer** with a strong background in **Machine Learn
 
 - 🎓 Master's in Computing (AI Specialization) from **NUS**, Singapore.
 - 💻 Skilled in **LLMs, Deep Learning, Cloud AI**, and frameworks like **TensorFlow, PyTorch**, and **LangChain**.
+- Skilled Problem-Solving and PoC Development: Strong ability to develop proof-of-concepts and iterate based on customer feedback.
 - 🚀 Passionate about **Generative AI** and applying **LLM** technologies to real-world problems.
 - 🔧 Currently freelancing, working on AI/ML projects that leverage cutting-edge techniques like **Retrieval-Augmented Generation (RAG)**.
 
