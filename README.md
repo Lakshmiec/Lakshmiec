@@ -1,15 +1,3 @@
-### Hi there 👋, I am Sreelakshmi
-
-## 🌟 About Me
-
-***I am a passionate Data Scientist with a strong Machine Learning and Data Analysis background. I recently completed my Master's degree at the National University of Singapore (NUS),***
-****where I worked on various projects applying ML techniques to real-world problems. I aim to leverage data to drive meaningful insights and make a positive impact.***
-
-***- 🎓 Master’s degree in Computing with Artificial Intelligence Specialization from NUS, Singapore.***
-***- I'm passionate about exploring advanced technologies, particularly Large Language Models (LLM) and Generative AI (GenAI). I enjoy diving into the latest developments in AI and leveraging these tools to create innovative solutions.***
-
-
-
 
 ### Hi there 👋, I am Sreelakshmi
 
