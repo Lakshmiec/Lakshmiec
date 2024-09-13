@@ -11,7 +11,6 @@ I am a dedicated **AI/ML Developer** with a strong background in **Machine Learn
 
 ---
 
-This version better reflects your current expertise and freelancing status while aligning with your resume. Let me know if you'd like any tweaks!
 <!--
 **Lakshmiec/Lakshmiec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
