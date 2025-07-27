@@ -1,17 +1,50 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c1dc3b9a-3a15-4c8f-8a34-9008a7e9d6d2"" width="40%" style="max-width:900px;" />
+</p>
 
-### Hi there 👋, I am Sreelakshmi
-
-## 🌟 About Me
-I am a dedicated **AI/ML Developer** with a strong background in **Machine Learning, NLP**, and **Data Science**. I recently completed my Master’s degree in **Computing (AI Specialization)** from the **National University of Singapore (NUS)**. With experience in developing AI-driven applications, I focus on creating impactful, scalable solutions using advanced technologies.
-
-- 🎓 Master's in Computing (AI Specialization) from **NUS**, Singapore.
-- 💻 Skilled in **LLMs, Deep Learning, Cloud AI**, and frameworks like **TensorFlow, PyTorch**, and **LangChain**.
-- Skilled Problem-Solving and PoC Development: Strong ability to develop proof-of-concepts and iterate based on customer feedback.
-- 🚀 Passionate about **Generative AI** and applying **LLM** technologies to real-world problems.
-- 🔧 Currently freelancing, working on AI/ML projects that leverage cutting-edge techniques like **Retrieval-Augmented Generation (RAG)**.
+<p align="center">
+  🤖 AI/ML Explorer · 🛠 DevOps Enthusiast · 🧩 Problem Solver · 💡 Building cool stuff with AI
+</p>
 
 ---
 
+### 🌟 My Journey So Far
+
+I love blending code, creativity, and curiosity to build intelligent systems that solve real-world problems. My journey has taken me from Kerala to Singapore to the UK—along the way, I earned my Masters in Computing (AI) from the National University of Singapore (NUS), and built LLM-powered chatbots, predictive models, and data-driven apps for finance, EdTech, and more. I’m happiest when experimenting with new tech, geeking out over ML papers, or helping others learn.
+
+- 🎓 MSc in Computing (Artificial Intelligence), National University of Singapore (NUS)
+
+- 🧠 Specializing in Artificial Intelligence & Machine Learning
+- 🛠️ Python, LLMs, LangChain, FastAPI, React, Cloud, and more
+- 🚢 Building, breaking, and learning—one project at a time
+- ✨ Always up for a chat about tech, travel, or your next big idea!
+- 🔧 Currently freelancing, working on AI/ML projects that leverage cutting-edge techniques like **Retrieval-Augmented Generation (RAG)**.
+- 🌍 Based in the UK 🇬🇧 (but always online 🌐)
+
+### 🌱 What I’m Into Now
+
+- LLMs, agentic AI, RAG, and the latest in GenAI
+- Cloud technologies (AWS, GCP, Azure) & DevOps
+- Microsoft Certified Professional (MCP) & always learning new skills
+- Open-source AI projects and hackathons
+- Making ML more accessible to everyone
+- The perfect cup of filter coffee ☕
+
+### 🏄‍♀️ Fun Facts
+
+- 🌍 Lived and worked in three countries (so far!)
+- 📊 Visual storytelling buff—Tableau dashboards are my jam!
+- 🥾 If I’m not coding, I’m probably trekking up a hill or solving a Sudoku 🧩
+- 🚀 I believe the best learning happens by doing
+
+
+---
+
+### 📫 Let’s Connect!
+
+[LinkedIn](https://www.linkedin.com/in/lakshmiec) • [Email](mailto:lakshmiec98@gmail.com)
+
+---
 <!--
 **Lakshmiec/Lakshmiec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
