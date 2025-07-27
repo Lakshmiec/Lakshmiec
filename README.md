@@ -18,8 +18,10 @@ I love blending code, creativity, and curiosity to build intelligent systems tha
 - 🛠️ Python, LLMs, LangChain, FastAPI, React, Cloud, and more
 - 🚢 Building, breaking, and learning—one project at a time
 - ✨ Always up for a chat about tech, travel, or your next big idea!
-- 🔧 Currently freelancing, working on AI/ML projects that leverage cutting-edge techniques like **Retrieval-Augmented Generation (RAG)**.
+- 🔧 Currently freelancing, working on AI/ML projects that leverage cutting-edge AI techniques.
 - 🌍 Based in the UK 🇬🇧 (but always online 🌐)
+
+
 
 ### 🌱 What I’m Into Now
 
@@ -28,13 +30,13 @@ I love blending code, creativity, and curiosity to build intelligent systems tha
 - Microsoft Certified Professional (MCP) & always learning new skills
 - Open-source AI projects and hackathons
 - Making ML more accessible to everyone
-- The perfect cup of filter coffee ☕
+
 
 ### 🏄‍♀️ Fun Facts
 
 - 🌍 Lived and worked in three countries (so far!)
-- 📊 Visual storytelling buff—Tableau dashboards are my jam!
-- 🥾 If I’m not coding, I’m probably trekking up a hill or solving a Sudoku 🧩
+- 🥾 Treks & trails are my reset button
+- 🧠 Sudoku is my meditation  
 - 🚀 I believe the best learning happens by doing
 
 
