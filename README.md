@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  🤖 AI/ML Explorer · 🛠 DevOps Enthusiast · 🧩 Problem Solver · 💡 Building cool stuff with AI
+  🤖 AI/ML Explorer · 🧩 Problem Solver · 💡 Building cool stuff with AI
 </p>
 
 ---
@@ -35,8 +35,6 @@ I love blending code, creativity, and curiosity to build intelligent systems tha
 ### 🏄‍♀️ Fun Facts
 
 - 🌍 Lived and worked in three countries (so far!)
-- 🥾 Treks & trails are my reset button
-- 🧠 Sudoku is my meditation  
 - 🚀 I believe the best learning happens by doing
 
 
