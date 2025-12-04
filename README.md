@@ -21,7 +21,7 @@ I'm an AI engineer who builds systems with LLMs, multi-agent frameworks, and mac
 
 
 
-### 🌱 What I’m Into Now
+### What I’m Into Now .....
 
 - LLMs, agentic AI, RAG, and the latest in GenAI
 - Cloud technologies (AWS, GCP, Azure) & DevOps
@@ -30,10 +30,11 @@ I'm an AI engineer who builds systems with LLMs, multi-agent frameworks, and mac
 - Making ML more accessible to everyone
 
 
-### 🏄‍♀️ Fun Facts
+### A Few Things About Me
 
-- 🌍 Lived and worked in three countries (so far!)
-- 🚀 I believe the best learning happens by doing
+- Lived and worked in three countries: India → Singapore → UK
+- My transition from Oracle developer to AI engineer taught me that it's never too late to pivot toward what excites you
+- I learn best by doing, which explains why I have so many side projects
 
 
 ---
