@@ -10,16 +10,14 @@
 
 ### 🌟 My Journey So Far
 
-I love blending code, creativity, and curiosity to build intelligent systems that solve real-world problems. My journey has taken me from Kerala to Singapore to the UK—along the way, I earned my Masters in Computing (AI) from the National University of Singapore (NUS), and built LLM-powered chatbots, predictive models, and data-driven apps for finance, EdTech, and more. I’m happiest when experimenting with new tech, geeking out over ML papers, or helping others learn.
+I'm an AI engineer who builds systems with LLMs, multi-agent frameworks, and machine learning. My path took me from Kerala to Singapore to the UK—starting as an application developer at Oracle, then realizing my real interest was in what AI could do with data. That led me to pursue my Master's in Computing (AI) from the National University of Singapore, and since then I've been building LLM-powered chatbots, translation workflows, RAG systems, and automation tools. I'm happiest when I'm solving a tricky technical problem or experimenting with new frameworks.
 
 - 🎓 MSc in Computing (Artificial Intelligence), National University of Singapore (NUS)
+- AI Engineer specializing in LLMs, NLP & Multi-Agent Systems
+- Python, LangChain, CrewAI, AutoGen, FastAPI, React, Docker, AWS
+- Currently freelancing and actively looking for AI engineering roles
+- Based in London, UK 🇬🇧
 
-- 🧠 Specializing in Artificial Intelligence & Machine Learning
-- 🛠️ Python, LLMs, LangChain, FastAPI, React, Cloud, and more
-- 🚢 Building, breaking, and learning—one project at a time
-- ✨ Always up for a chat about tech, travel, or your next big idea!
-- 🔧 Currently freelancing, working on AI/ML projects that leverage cutting-edge AI techniques.
-- 🌍 Based in the UK 🇬🇧 (but always online 🌐)
 
 
 
