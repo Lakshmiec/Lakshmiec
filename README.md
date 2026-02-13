@@ -2,9 +2,7 @@
   <img src="https://github.com/user-attachments/assets/c1dc3b9a-3a15-4c8f-8a34-9008a7e9d6d2"" width="40%" style="max-width:900px;" />
 </p>
 
-<p align="center">
-  🤖 AI/ML Explorer · 🧩 Problem Solver · 💡 Building cool stuff with AI
-</p>
+
 
 ---
 
